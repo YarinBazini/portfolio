@@ -1,0 +1,34 @@
+.contact {
+  max-height: fit-content;
+
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  background-color: white;
+}
+
+.contact-content {
+  white-space: normal;
+  width: 90%;
+}
+
+@media screen and (max-width: 500px) {
+  .contact-content {
+    white-space: normal;
+    width: 90%;
+    font-size: 20px;
+    font-weight: 500;
+  }
+}
+.social-media-links {
+  display: flex;
+  justify-content: space-around;
+}
+.scroll-up-icon {
+}
+.icon {
+  margin-inline: 5px;
+}

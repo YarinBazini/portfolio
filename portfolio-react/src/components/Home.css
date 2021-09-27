@@ -1,0 +1,19 @@
+.welcome-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  color: white;
+}
+.name {
+  font-size: 5vh;
+}
+.home-content {
+  font-size: 3vh;
+}
+.scroll-down-icon {
+  margin-top: 20%;
+}

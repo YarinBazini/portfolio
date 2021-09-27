@@ -1,0 +1,94 @@
+.skills {
+  max-height: fit-content;
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.skills-title {
+  margin-top: 55px;
+}
+
+.skills-content {
+  width: 90%;
+}
+
+.skill-container {
+  display: flex;
+  flex-direction: column;
+}
+.skill {
+  height: 5vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 30px;
+}
+.good-cpp {
+  height: 100%;
+  width: 85%;
+  background-color: gray;
+}
+.bad-cpp {
+  height: 100%;
+  width: 15%;
+  background-color: white;
+}
+.good-c {
+  height: 100%;
+  width: 90%;
+  background-color: gray;
+}
+.bad-c {
+  height: 100%;
+  width: 10%;
+  background-color: white;
+}
+.good-js {
+  height: 100%;
+  width: 65%;
+  background-color: gray;
+}
+.bad-js {
+  height: 100%;
+  width: 35%;
+  background-color: white;
+}
+.good-react {
+  height: 100%;
+  width: 80%;
+  background-color: gray;
+}
+.bad-react {
+  height: 100%;
+  width: 20%;
+  background-color: white;
+}
+.good-css {
+  height: 100%;
+  width: 75%;
+  background-color: gray;
+}
+.bad-css {
+  height: 100%;
+  width: 25%;
+  background-color: white;
+}
+.good-html {
+  height: 100%;
+  width: 85%;
+  background-color: gray;
+}
+.bad-html {
+  height: 100%;
+  width: 15%;
+  background-color: white;
+}
