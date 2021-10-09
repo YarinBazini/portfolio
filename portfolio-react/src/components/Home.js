@@ -26,7 +26,7 @@ const Home = () => {
         <h1 className="name">Yarin Bazini.</h1>
       </Fade>
       <Zoom top cascade>
-        <p className="home-content">Welcome to my portfolio.</p>
+        <p className="home-content">Welcome to my portfolio!</p>
       </Zoom>
 
       <div className="scroll-down-icon">
